@@ -1,0 +1,1 @@
+Recursive function in which embedded PDF documents are extracted and placed in a keyfolder.
